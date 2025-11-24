@@ -14,8 +14,7 @@
     ),
     repeating-linear-gradient(to bottom, #d3d3d3 0 2px, transparent 2px 4px),
     linear-gradient(to bottom, #e7e7e7 0%, #e7e7e7 0.01%, #1a1a1a 100%);
-  --header-width: clamp(23.438rem, 30.798vw + 16.219rem, 43.938rem);
-  --header-height: clamp(20.438rem, 4.131vw + 19.469rem, 23.188rem);
+  --header-width: clamp(23.438rem, 30.704vw + 16.241rem, 43.875rem);
   --header-title-font: clamp(3.063rem, 1.502vw + 2.71rem, 4.063rem);
   --header-subtitle-font: clamp(0.875rem, 0.845vw + 0.677rem, 1.438rem);
   --label-stroke-color: #fff;
