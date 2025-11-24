@@ -1,1 +1,2 @@
-https://obe1taps.github.io/zakrivayuschiy-teg-f/
+https://github.com/obe1taps/zakrivayuschiy-teg-f
+
